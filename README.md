@@ -11,3 +11,5 @@
    * Una propiedad valor inicializada en 0
    * Un método siguiente que incremenente el valor en 1.
 3. Defina una variable llamada "instancia" que inicialice una instancia de la clase.
+
+   
